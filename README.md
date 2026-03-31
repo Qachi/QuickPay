@@ -1,10 +1,10 @@
-QuickPay – Mobile Payment App
+**QuickPay – Mobile Payment App**
 
 QuickPay is a modern mobile payment application designed to provide a fast, secure, and seamless way for users to manage their finances. The app focuses on simplicity, clean UI, and smooth user experience while supporting essential financial operations.
 
-This project is currently under active development.
+**This project is currently under active development.**
 
-✅ Features Implemented
+**✅ Features Implemented:**
 
 💰 Available Balance Display – View account balance at a glance with a toggle feture to make balance visible or hidden
 
@@ -22,18 +22,21 @@ This project is currently under active development.
 
 📈 Interest Option – Enable interest on balance
 
-Tech Stack:
+**Tech Stack:**
+
 Kotlin
 Jetpack Compose
 MVVM Architecture
 
-🎯 Project Goal
+**🎯 Project Goal**
+
 The goal of QuickPay is to simulate a real-world fintech application while applying modern Android development practices and building a scalable, maintainable codebase.
 
-🤝 Contributing ->
+**🤝 Contributing:**
+
 Contributions, suggestions, and feedback are welcome!
 
-📱 UI Preview
+**📱 UI Preview**
 
 
 <img width="719" height="894" alt="image" src="https://github.com/user-attachments/assets/8d036b7c-e394-47f3-b3b7-6972eec6f4b6" />
