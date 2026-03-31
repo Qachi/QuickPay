@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuickPay</string>
+    <string name="bottom_nav_home">Home</string>
+    <string name="bottom_nav_reward">Reward</string>
+    <string name="bottom_nav_finance">Finance</string>
+    <string name="bottom_nav_contactUs">Contact Us</string>
+    <string name="bottom_nav_settings">Settings</string>
+</resources>
