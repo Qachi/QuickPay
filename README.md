@@ -24,11 +24,11 @@ QuickPay is a modern mobile payment application designed to provide a fast, secu
 
 **Tech Stack:**
 
-Kotlin
+* Kotlin
 
-Jetpack Compose
+* Jetpack Compose
 
-MVVM Architecture
+* MVVM Architecture
 
 **🎯 Project Goal**
 
