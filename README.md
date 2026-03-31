@@ -5,13 +5,21 @@ QuickPay is a modern mobile payment application designed to provide a fast, secu
 This project is currently under active development.
 
 ✅ Features Implemented
+
 💰 Available Balance Display – View account balance at a glance with a toggle feture to make balance visible or hidden
+
 ➕ Add Money – Easily fund your wallet
+
 📜 Transaction History Access – Quick navigation to past transactions
+
 🏦 Bank Transfer – Send money to bank accounts
+
 🔄 QuickPay Transfer – Send money to other QuickPay users
+
 🐖 Savings – Basic savings feature
+
 💳 ATM Card Section – Card-related services UI
+
 📈 Interest Option – Enable interest on balance
 
 Tech Stack:
