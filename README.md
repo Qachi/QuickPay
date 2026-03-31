@@ -26,6 +26,8 @@ The goal of QuickPay is to simulate a real-world fintech application while apply
 Contributions, suggestions, and feedback are welcome!
 
 📱 UI Preview
+
+
 <img width="719" height="894" alt="image" src="https://github.com/user-attachments/assets/8d036b7c-e394-47f3-b3b7-6972eec6f4b6" />
 
 https://github.com/user-attachments/assets/8fd9554a-5994-4c8c-8ef1-48a763d3823c
