@@ -14,7 +14,7 @@ This project is currently under active development.
 💳 ATM Card Section – Card-related services UI
 📈 Interest Option – Enable interest on balance
 
-Tech Stack
+Tech Stack:
 Kotlin
 Jetpack Compose
 MVVM Architecture
@@ -22,7 +22,7 @@ MVVM Architecture
 🎯 Project Goal
 The goal of QuickPay is to simulate a real-world fintech application while applying modern Android development practices and building a scalable, maintainable codebase.
 
-🤝 Contributing
+🤝 Contributing ->
 Contributions, suggestions, and feedback are welcome!
 
 📱 UI Preview
